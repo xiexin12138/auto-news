@@ -1,0 +1,11 @@
+{
+  "name": "auto-news",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xiexin12138/auto-news",
+  "author": "Sam <xiexin344@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "langchain": "^0.0.95"
+  }
+}
